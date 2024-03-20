@@ -4,7 +4,7 @@ This is a web application or e-commerce app for online distribution business. Th
 
 ### Technologies Used:
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center;">
   <div style="text-align: center;">
     <img src="images/html.png" alt="HTML Logo" width="100">
     <p>HTML</p>
