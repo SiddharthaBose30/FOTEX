@@ -4,14 +4,4 @@ This is a web application or e-commerce app for online distribution business. Th
 
 ### Technologies Used:
 
-| Technology  | Logo                                     |
-|-------------|------------------------------------------|
-| HTML        | ![HTML Logo](images/html.png)            |
-| CSS         | ![CSS Logo](images/css.png)              |
-| JavaScript  | ![JavaScript Logo](images/js.png)        |
-| Node.js     | ![Node.js Logo](images/nodejs.png)       |
-| ReactJS     | ![ReactJS Logo](images/reactjs.png)      |
-| ExpressJS   | ![ExpressJS Logo](images/ejs.png)        |
-| Terraform   | ![Terraform Logo](images/terraform.png)  |
-| Go          | ![Go Logo](images/go.png)                |
-| MongoDB     | ![MongoDB Logo](images/mongodb.png)      |
+<img src="images/html.png" alt="HTML Logo" width="100"> <img src="images/css.png" alt="CSS Logo" width="100"> <img src="images/js.png" alt="JavaScript Logo" width="100"> <img src="images/nodejs.png" alt="Node.js Logo" width="100"> <img src="images/reactjs.png" alt="ReactJS Logo" width="100"> <img src="images/ejs.png" alt="ExpressJS Logo" width="100"> <img src="images/terraform.png" alt="Terraform Logo" width="100"> <img src="images/go.png" alt="Go Logo" width="100"> <img src="images/mongodb.png" alt="MongoDB Logo" width="100">
