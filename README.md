@@ -4,41 +4,14 @@ This is a web application or e-commerce app for online distribution business. Th
 
 ### Technologies Used:
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); gap: 20px; justify-items: center;">
-  <div style="text-align: center;">
-    <img src="images/html.png" alt="HTML Logo" width="100">
-    <p>HTML</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/css.png" alt="CSS Logo" width="100">
-    <p>CSS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/js.png" alt="Javascript Logo" width="100">
-    <p>Javascript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/nodejs.png" alt="Node.js Logo" width="100">
-    <p>Node</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/reactjs.png" alt="React Logo" width="100">
-    <p>ReactJS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/ejs.png" alt="ExpressJS Logo" width="100">
-    <p>ExpressJS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/terraform.png" alt="Terraform Logo" width="100">
-    <p>Terraform</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/go.png" alt="Go Logo" width="100">
-    <p>Go</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="images/mongodb.png" alt="MongoDB Logo" width="100">
-    <p>MongoDB</p>
-  </div>
-</div>
+| Technology  | Logo                                     |
+|-------------|------------------------------------------|
+| HTML        | ![HTML Logo](images/html.png)            |
+| CSS         | ![CSS Logo](images/css.png)              |
+| JavaScript  | ![JavaScript Logo](images/js.png)        |
+| Node.js     | ![Node.js Logo](images/nodejs.png)       |
+| ReactJS     | ![ReactJS Logo](images/reactjs.png)      |
+| ExpressJS   | ![ExpressJS Logo](images/ejs.png)        |
+| Terraform   | ![Terraform Logo](images/terraform.png)  |
+| Go          | ![Go Logo](images/go.png)                |
+| MongoDB     | ![MongoDB Logo](images/mongodb.png)      |
