@@ -4,59 +4,41 @@ This is a web application or e-commerce app for online distribution business. Th
 
 ### Technologies Used:
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/html.png" alt="HTML Logo" width="100">
-    </div>
-    <p style="text-align: center;">HTML</p>
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+  <div style="text-align: center;">
+    <img src="images/html.png" alt="HTML Logo" width="100">
+    <p>HTML</p>
   </div>
-  <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/css.png" alt="CSS Logo" width="100">
-    </div>
-    <p style="text-align: center;">CSS</p>
+  <div style="text-align: center;">
+    <img src="images/css.png" alt="CSS Logo" width="100">
+    <p>CSS</p>
   </div>
-  <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/js.png" alt="Javascript Logo" width="100">
-    </div>
-    <p style="text-align: center;">Javascript</p>
+  <div style="text-align: center;">
+    <img src="images/js.png" alt="Javascript Logo" width="100">
+    <p>Javascript</p>
   </div>
-    <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/nodejs.png" alt="Node.js Logo" width="100">
-    </div>
-    <p style="text-align: center;">Node</p>
+  <div style="text-align: center;">
+    <img src="images/nodejs.png" alt="Node.js Logo" width="100">
+    <p>Node</p>
   </div>
-    <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/reactjs.png" alt="React Logo" width="100">
-    </div>
-    <p style="text-align: center;">ReactJS</p>
+  <div style="text-align: center;">
+    <img src="images/reactjs.png" alt="React Logo" width="100">
+    <p>ReactJS</p>
   </div>
-    <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/ejs.png" alt="ExpressJS Logo" width="100">
-    </div>
-    <p style="text-align: center;">ExpressJS</p>
+  <div style="text-align: center;">
+    <img src="images/ejs.png" alt="ExpressJS Logo" width="100">
+    <p>ExpressJS</p>
   </div>
-    <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/terraform.png" alt="Terraform Logo" width="100">
-    </div>
-    <p style="text-align: center;">Terraform</p>
+  <div style="text-align: center;">
+    <img src="images/terraform.png" alt="Terraform Logo" width="100">
+    <p>Terraform</p>
   </div>
-    <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/go.png" alt="Go Logo" width="100">
-    </div>
-    <p style="text-align: center;">Go</p>
+  <div style="text-align: center;">
+    <img src="images/go.png" alt="Go Logo" width="100">
+    <p>Go</p>
   </div>
-    <div style="flex: 1; margin: 10px;">
-    <div style="text-align: center;">
-      <img src="images/mongodb.png" alt="MongoDB Logo" width="100">
-    </div>
-    <p style="text-align: center;">MongoDB</p>
+  <div style="text-align: center;">
+    <img src="images/mongodb.png" alt="MongoDB Logo" width="100">
+    <p>MongoDB</p>
   </div>
 </div>
