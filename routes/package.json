@@ -1,0 +1,28 @@
+{
+  "name": "routes",
+  "version": "1.0.0",
+  "description": "Node.js code for Fotex app backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthaBose30/FOTEX.git"
+  },
+  "keywords": [
+    "webapp"
+  ],
+  "author": "Siddhartha Bose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddharthaBose30/FOTEX/issues"
+  },
+  "homepage": "https://github.com/SiddharthaBose30/FOTEX#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.1",
+    "mongodb": "6.5",
+    "mongoose": "^8.2.3"
+  }
+}
